@@ -22,7 +22,7 @@ def get_requirements(file_path: str) -> List[str]:
         with open("requirements.txt", 'r') as f:
             # Read the lines from the requirements.txt file, strip whitespace, and filter out empty lines
             lines = f.readlines()
-            # process each line to remove whitespace and ignore empty lines
+             fi# process each line to remove whitespace and ignore empty lines
             for line in lines:
                 requirement = line.strip()
                 ## ignore empty lines

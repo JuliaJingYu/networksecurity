@@ -1,0 +1,2 @@
+2026-10-25 12:54:26,717 - root - INFO - Enter the try block.
+2026-10-25 12:54:26,718 - root - ERROR - Error occured in python script name [/Users/julia/Desktop/Master/Udemy/network security/networksecurity/exception/exception.py] at line number [23] error message [division by zero]
