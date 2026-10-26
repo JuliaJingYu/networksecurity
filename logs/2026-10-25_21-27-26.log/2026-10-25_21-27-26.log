@@ -1,0 +1,4 @@
+2026-10-25 21:27:26,071 - root - INFO - Starting the data extraction process.
+2026-10-25 21:27:26,203 - root - INFO - MongoDB client initialized successfully.
+2026-10-25 21:27:26,204 - root - ERROR - Error occured in python script name [/Users/julia/Desktop/Master/Udemy/network security/push_data.py] at line number [40] error message [[Errno 2] No such file or directory: 'data.csv']
+2026-10-25 21:27:26,204 - root - ERROR - Error occured in python script name [/Users/julia/Desktop/Master/Udemy/network security/push_data.py] at line number [66] error message [Error occured in python script name [/Users/julia/Desktop/Master/Udemy/network security/push_data.py] at line number [40] error message [[Errno 2] No such file or directory: 'data.csv']]

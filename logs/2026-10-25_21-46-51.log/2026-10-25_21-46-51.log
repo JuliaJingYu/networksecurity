@@ -1,0 +1,4 @@
+2026-10-25 21:46:51,743 - root - INFO - Starting the data extraction process.
+2026-10-25 21:46:51,920 - root - INFO - MongoDB client initialized successfully.
+2026-10-25 21:46:58,600 - root - INFO - Inserted 11055 records into MongoDB.
+2026-10-25 21:46:58,718 - root - INFO - MongoDB client initialized successfully.
